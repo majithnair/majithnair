@@ -12,3 +12,6 @@
     <td><img src="https://profile-counter.glitch.me/majithnair/count.svg" alt="" /></td>
   </tr>
 </table>
+
+![Malavika's GitHub stats](https://github-readme-stats.vercel.app/api?username=majithnair&hide=contribs,prs)
+
