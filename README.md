@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Malavika 👋
+
+
+- 💬 Ask me about: Would you like to join our company? 😉
+- 📫 How to reach me: malavika.rkn@gmail.comn
+- 😄 Pronouns: She/Her/Hers 💃🏻
+- ⚡ Fun fact: Less than 0.5% of all data we create is ever analyzed and used 😎
 
 <table>
   <tr>
@@ -6,18 +12,3 @@
     <td><img src="https://profile-counter.glitch.me/majithnair/count.svg" alt="" /></td>
   </tr>
 </table>
-
-<!--
-**majithnair/majithnair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
